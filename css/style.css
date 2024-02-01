@@ -1,0 +1,9 @@
+:root{
+    --primary-color: black;
+    --secondary-color: #EFFF3D;
+}
+/* ciao */
+
+.btn--color{
+    background-color: var(--secondary-color);
+}
